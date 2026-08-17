@@ -2,24 +2,24 @@
 
 Computer Engineering student at **ENSI – National School of Computer Science (Tunisia)**, interested in **Artificial Intelligence and Software Engineering**.
 
-My experience and projects span **Machine Learning, Deep Learning, Computer Vision, NLP, LLMs and AI Agents**, from designing and training AI models to integrating them into web and mobile applications.
+My academic projects and internships have allowed me to work across **Machine Learning, Deep Learning, Computer Vision, NLP, LLMs and AI Agents**, as well as backend and full-stack development.
 
-I am currently looking for a **6-month Final-Year Project (PFE) internship starting in January/February 2027**.
+I am currently looking for a **6-month Final-Year Project (PFE) internship starting in January or February 2027**.
 
 ## 🧠 Areas of Interest
 
-* Machine Learning & Deep Learning
+* Machine Learning and Deep Learning
 * Computer Vision
 * Natural Language Processing
-* LLMs & AI Agents
-* AI-powered automation
-* Backend & API development
-* Full-Stack Software Engineering
+* LLMs and AI Agents
+* AI automation
+* Backend and API development
+* Full-stack development
 
-## 💻 Tech Stack
+## 💻 Technologies
 
 **AI & Data**
-Python · Machine Learning · Deep Learning · CNN · NLP · LLMs · AI Agents
+Python · Machine Learning · Deep Learning · CNN · Computer Vision · NLP · LLMs · AI Agents
 
 **Backend**
 FastAPI · Spring Boot · REST APIs
@@ -30,55 +30,47 @@ React · Angular · Flutter · JavaScript · Dart · HTML · CSS
 **Databases**
 PostgreSQL · MongoDB · SQL · SQLite
 
-**Languages**
+**Programming Languages**
 Python · Java · C · C++ · JavaScript · Dart
 
 **Tools**
-Git · GitHub · Docker · Figma
+Git · GitHub · Docker (basic knowledge) · Figma
 
-## 🚀 Experience
+## 💼 Experience
 
-### XPAI — AI-powered Market & Competitive Intelligence
+### XPAI — Influence Consulting
 
-Contributed to an AI-based solution designed to support market analysis and strategic decision-making.
+During my summer internship, I contributed to **XPAI**, an AI-based market and competitive intelligence solution designed to support market analysis and strategic decision-making.
 
-Worked on:
+My work focused on:
 
-* AI agents for specialized market analysis
-* Data collection and structuring from APIs and web sources
-* Reliable source selection
-* Data collection and processing automation
-* Integration of LLMs into AI-agent workflows
+* collecting and structuring data from APIs and web sources
+* selecting reliable data sources
+* automating data collection and processing
+* using LLMs and AI agents within the solution
 
-### Intelligent Document Classification Platform
+### Document Classification Platform — All Soft Multimédia
 
-Developed a web platform using **Angular** and **Spring Boot**, with an **NLP module** for automated document classification.
+Developed a web-based document classification platform using **Angular** and **Spring Boot**, with an **NLP module** for automated document classification.
 
-## 🔬 Selected AI Projects
+## 🔬 Projects
 
 ### Alzheimer's Disease Detection
 
-Developed a system combining **Machine Learning and Deep Learning** for early Alzheimer's disease detection from brain MRI images.
+Academic project focused on early Alzheimer's disease detection from brain MRI images using a hybrid approach combining **Machine Learning and Deep Learning**.
 
 The project also included:
 
-* React web application
-* Flutter mobile application
-* FastAPI backend
-* PostgreSQL database
+* a React web application
+* a Flutter mobile application
+* a FastAPI backend
+* PostgreSQL for data storage
 
 ### Tomato Disease Detection
 
-Designed and trained a **CNN model** for image classification and tomato leaf disease detection, then integrated the model into a **Flutter mobile application**.
+Designed and trained a **CNN model** for tomato leaf disease classification and integrated the trained model into a **Flutter mobile application**.
 
-## 🤝 Let's Connect
+## 📫 Contact
 
-* **LinkedIn:** [Eya Maaloul](https://www.linkedin.com/in/eya-maaloul-466b2133a/)
-* **Email:** [eya.maaloul@ensi-uma.tn](mailto:eya.maaloul@ensi-uma.tn)
-
----
-
-*Interested in AI, Machine Learning and Software Engineering opportunities for my 2027 Final-Year Project.*
-
-
-
+**LinkedIn:** [Eya Maaloul](https://www.linkedin.com/in/eya-maaloul-466b2133a/)
+**Email:** [eya.maaloul@ensi-uma.tn](mailto:eya.maaloul@ensi-uma.tn)
